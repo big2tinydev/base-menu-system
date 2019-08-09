@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;AAAA;AAAA;EAGE;EACA;EACA;EACA;;;AAGF;EACE","file":"base-menu-system.80ee2152.css","sourceRoot":"..","sourcesContent":["*,\n*::before,\n*::after {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n  font-family: 'Roboto', sans-serif;\n}\n\nbody {\n  background-color: antiquewhite;\n}\n"]}
