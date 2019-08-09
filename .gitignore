@@ -3,3 +3,4 @@ node_modules
 PersonalNotes.md
 dist
 .cache
+package-lock.json
